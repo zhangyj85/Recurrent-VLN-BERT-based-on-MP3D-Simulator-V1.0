@@ -10,7 +10,7 @@ This code is a revise version of [the official release](https://github.com/Yicon
 
 Note that only the `r2r_src` and `run` files need to be update. The usage of the rest files should follow the original introduction. For more details, please refer to [the official documentation](https://github.com/YicongHong/Recurrent-VLN-BERT).
 
-We also recommend you to follow our detail usage of the codes in [here]().
+We also recommend you to follow our detail usage of the codes in [here](https://blog.csdn.net/zhangyj85/article/details/130115301).
 
 ## Citation
 If you use or discuss the Recurrent VLN-BERT, please cite the paper:
