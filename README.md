@@ -8,12 +8,12 @@ Code of the **CVPR 2021 Oral** paper:<br>
 
 This code is a revise version of [the official release](https://github.com/YicongHong/Recurrent-VLN-BERT) to adapt to [Matterport3D Simulator Version 1.0](https://github.com/peteanderson80/Matterport3DSimulator/tree/master). We thank the authors for their great works! 
 
-Note that only the `r2r_src` and `run` files need to be update. The usage of the rest files should follow the original instroduction. For more details, please refer to [the official documentation](https://github.com/YicongHong/Recurrent-VLN-BERT).
+Note that only the `r2r_src` and `run` files need to be update. The usage of the rest files should follow the original introduction. For more details, please refer to [the official documentation](https://github.com/YicongHong/Recurrent-VLN-BERT).
 
 We also recommend you to follow our detail usage of the codes in [here]().
 
 ## Citation
-If you use or discuss the Recurrent VLN-BERT, please cite our paper:
+If you use or discuss the Recurrent VLN-BERT, please cite the paper:
 ```
 @InProceedings{Hong_2021_CVPR,
     author    = {Hong, Yicong and Wu, Qi and Qi, Yuankai and Rodriguez-Opazo, Cristian and Gould, Stephen},
